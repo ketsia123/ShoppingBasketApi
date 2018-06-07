@@ -1,0 +1,9 @@
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ClientLibrary\bin\Debug\netstandard2.0\ClientLibrary.deps.json
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ClientLibrary\bin\Debug\netstandard2.0\ClientLibrary.dll
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ClientLibrary\bin\Debug\netstandard2.0\ClientLibrary.pdb
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ClientLibrary\obj\Debug\netstandard2.0\ClientLibrary.csproj.CoreCompileInputs.cache
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ClientLibrary\obj\Debug\netstandard2.0\ClientLibrary.AssemblyInfoInputs.cache
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ClientLibrary\obj\Debug\netstandard2.0\ClientLibrary.AssemblyInfo.cs
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ClientLibrary\obj\Debug\netstandard2.0\ClientLibrary.dll
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ClientLibrary\obj\Debug\netstandard2.0\ClientLibrary.pdb
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ClientLibrary\obj\Debug\netstandard2.0\ClientLibrary.csprojAssemblyReference.cache

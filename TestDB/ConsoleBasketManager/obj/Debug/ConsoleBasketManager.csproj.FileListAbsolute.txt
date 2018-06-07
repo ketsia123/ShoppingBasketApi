@@ -1,0 +1,10 @@
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ConsoleBasketManager\bin\Debug\ConsoleBasketManager.exe.config
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ConsoleBasketManager\bin\Debug\ConsoleBasketManager.exe
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ConsoleBasketManager\bin\Debug\ConsoleBasketManager.pdb
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ConsoleBasketManager\obj\Debug\ConsoleBasketManager.csprojAssemblyReference.cache
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ConsoleBasketManager\obj\Debug\ConsoleBasketManager.csproj.CoreCompileInputs.cache
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ConsoleBasketManager\obj\Debug\ConsoleBasketManager.exe
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ConsoleBasketManager\obj\Debug\ConsoleBasketManager.pdb
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ConsoleBasketManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ConsoleBasketManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ketsia.moonien\Desktop\Project\TEST\TestDB\ConsoleBasketManager\obj\Debug\ConsoleBasketManager.csproj.CopyComplete
